@@ -1,17 +1,17 @@
 <div dir="rtl" align="right" style="font-family: 'IRANSans', Arial, sans-serif; line-height: 1.8; background-color: #f9f9f9; padding: 30px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 
-<div align="center">
+<!--<div align="center">
   <img src="https://avatars.githubusercontent.com/u/37948611?v=4" alt="Ali Darehshori" width="10%" style="border-radius: 50%;" />
 </div>
-
+-->
 <h1 align="center" style="font-size: 3rem; color: #ff6347; margin-bottom: 20px;"> Ali Darehshori | علی دره‌شوری </h1>
 
 <p align="center" style="font-size: 1.2rem; color: #4682b4;">
 توسعه‌دهنده دات‌نت و عاشق دنیای آزاد لینـــوکس
 </p>
 
-<h1 style="color: #ff6347; text-align: center;">سلام! من محمدعلی هستم</h1>
-<p style="font-size: 1.2rem; color: #555;">یک برنامه‌نویس حرفه‌ای دات‌نت با تجربه‌ای غنی در طراحی و توسعه نرم‌افزارهای مقیاس‌پذیر و کارآمد. مأموریت من خلق راهکارهای نوآورانه و حل چالش‌های پیچیده در دنیای توسعه نرم‌افزار است.</p>
+<h1 style="color: #ff6347; text-align: center;">سلام! محمدعلی هستم</h1>
+<p style="font-size: 1.2rem; color: #555;">برنامه‌نویس حرفه‌ای دات‌نت با تجربه‌ای غنی در طراحی و توسعه نرم‌افزارهای مقیاس‌پذیر و کارآمد. مأموریت من خلق راهکارهای نوآورانه و حل چالش‌های پیچیده در دنیای توسعه نرم‌افزار است.</p>
 
 <h2 style="color: #ffa500;">👨‍💻 دربـــاره من</h2>
 

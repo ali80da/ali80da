@@ -1,136 +1,123 @@
-<!-- ============ ALI DAREHSHORI – GITHUB PROFILE README (RTL + Rounded + Animated) ============ -->
-<div dir="rtl" align="right" style="font-family: -apple-system, BlinkMacSystemFont, 'IRANSans', 'Vazirmatn', Segoe UI, Roboto, Arial; line-height: 1.85; background:#0d1117; color:#e6edf3; padding:28px; border-radius:18px; box-shadow:0 10px 30px rgba(0,0,0,.35);">
+<!-- ============ ALI DAREHSHORI – GITHUB PROFILE README (Senior & Optimized) ============ -->
 
-  <!-- Avatar -->
-  <div align="center" style="margin-bottom:14px;">
-    <img src="https://avatars.githubusercontent.com/u/37948611?v=4" alt="Ali Darehshori" width="128"
-         style="border-radius:50%; box-shadow:0 8px 22px rgba(0,0,0,.35); border:3px solid #161b22;" />
-  </div>
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&customColorList=4,5,6,7,8&text=Ali%20Darehshori&fontAlign=50&fontAlignY=50&desc=.NET%20Architect%20%7C%20Linux%20Enthusiast&descAlign=50&descSize=18&descAlignY=75&animation=fadeIn" 
+       alt="Header" 
+       style="width: 100%; max-width: 900px; border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.4);" />
+</p>
+
+<div dir="rtl" align="right" style="font-family: 'Vazirmatn', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif; line-height: 1.8; background: #0d1117; color: #e6edf3; padding: 30px; border-radius: 20px; box-shadow: 0 15px 40px rgba(0,0,0,0.4), inset 0 1px 0 rgba(255,255,255,0.05); border: 1px solid #30363d;">
 
   <!-- Animated Header -->
-  <div align="center" style="margin:0 0 16px;">
+  <div align="center" style="margin: 0 0 20px;">
     <img alt="Typing Title"
-         src="https://readme-typing-svg.demolab.com?font=Vazirmatn&weight=700&size=28&duration=2200&pause=700&color=FF7B72&center=true&vCenter=true&width=720&lines=%F0%9F%9A%80+%D8%B9%D9%84%DB%8C+%D8%AF%D8%B1%D9%87%E2%80%8C%D8%B4%D9%88%D8%B1%DB%8C+%7C+Ali+Darehshori;%E2%9A%99%EF%B8%8F+%D8%AA%D9%88%D8%B3%D8%B9%D9%87%E2%80%8C%D8%AF%D9%87%D9%86%D8%AF%D9%87+.NET+%7C+%D8%B9%D8%A7%D8%B4%D9%82+Linux+%D9%88+Open-Source"
-         style="border-radius:12px; box-shadow:0 8px 24px rgba(0,0,0,.25);" />
+         src="https://readme-typing-svg.demolab.com?font=Vazirmatn&weight=800&size=30&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+%D8%B9%D9%84%DB%8C+%D8%AF%D8%B1%D9%87%E2%80%8C%D8%B4%D9%88%D8%B1%DB%8C+%7C+Ali+Darehshori;%E2%9A%99%EF%B8%8F+.NET+Developer+%7C+Open+Source+Contributor;%F0%9F%90%A7+Linux+%26+DevOps+Enthusiast"
+         style="border-radius: 12px;" />
   </div>
 
-  <!-- Tagline -->
-  <p align="center" style="margin:8px 0 20px; font-size:1.04rem; color:#9ab;">
-    👨🏻‍💻 توسعه و طراحی نرم‌افزارهای مقیاس‌پذیر با <b>NET.</b> عاشق سیستم‌های تمیز، پایدار و قابل‌گسترش.
-    طرفدار <b>Linux</b> و فرهنگ <b>متن‌باز</b> 🐧
+  <!-- Tagline (Senior Tone) -->
+  <p align="center" style="margin: 10px 0 24px; font-size: 1.05rem; color: #94a3b8; font-weight: 400;">
+    توسعه‌دهنده متمرکز بر <span style="color: #c4b5fd; font-weight: 700;">پرفورمنس، مقیاس‌پذیری و معماری تمیز</span> با <span style="color: #a78bfa; font-weight: 700;">.NET</span>.
+    <br>
+    علاقه‌مند به اکوسیستم <span style="color: #facc15; font-weight: 700;">Linux</span>، خودکارسازی فرآیندها و فرهنگ <span style="color: #34d399; font-weight: 700;">متن‌باز</span> 🐧
   </p>
 
-  <hr style="border:none; height:1px; background:linear-gradient(90deg,#0d1117,#30363d,#0d1117); border-radius:10px;">
+  <hr style="border: none; height: 1px; background: linear-gradient(90deg, transparent, #30363d, transparent); margin: 24px 0;">
 
   <!-- Quick Facts -->
-  <h3 style="color:#79c0ff; margin-top:18px;">✨ یک نگاه سریع</h3>
-  <ul style="padding-right:18px; margin:6px 0 12px;">
-    <li>توسعه وب و API با <b>ASP.NET Core</b> | فرانت با <b>Blazor</b> | موبایل با <b>.NET MAUI</b></li>
-    <li>DevOps و استقرار با <b>Docker</b> و <b>Nginx</b> | عاشق لینوکس و خودکارسازی</li>
-    <li>علاقه‌مند به معماری‌های لایه‌ای و تمیز</li>
-  </ul>
+  <h3 style="color: #c4b5fd; margin-top: 20px; font-size: 1.3rem; font-weight: 700; border-right: 4px solid #7C3AED; padding-right: 12px;">
+    ✨ خلاصه تخصص و تمرکز
+  </h3>
+  <div style="display: flex; flex-wrap: wrap; gap: 14px; margin: 16px 0 24px;">
+    <div style="flex: 1; min-width: 260px; background: #161b22; border: 1px solid #30363d; border-radius: 14px; padding: 16px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+      <div style="color: #f472b6; font-weight: 700; margin-bottom: 8px; font-size: 1.05rem;">توسعه Backend و API</div>
+      <div style="color: #cbd5e1; font-size: 0.95rem;">طراحی و پیاده‌سازی با <b style="color: #a78bfa;">ASP.NET Core</b> | فرانت‌اند با <b style="color: #60a5fa;">Blazor</b> | کراس‌پلتفرم با <b style="color: #34d399;">NET MAUI.</b></div>
+    </div>
+    <div style="flex: 1; min-width: 260px; background: #161b22; border: 1px solid #30363d; border-radius: 14px; padding: 16px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+      <div style="color: #fbbf24; font-weight: 700; margin-bottom: 8px; font-size: 1.05rem;">DevOps و زیرساخت</div>
+      <div style="color: #cbd5e1; font-size: 0.95rem;">کانتینرسازی با <b style="color: #38bdf8;">Docker</b> | وب‌سرور <b style="color: #4ade80;">Nginx</b> | پایپ‌لاین‌های CI/CD و خودکارسازی</div>
+    </div>
+    <div style="flex: 1; min-width: 260px; background: #161b22; border: 1px solid #30363d; border-radius: 14px; padding: 16px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+      <div style="color: #f87171; font-weight: 700; margin-bottom: 8px; font-size: 1.05rem;"> معماری و طراحی</div>
+      <div style="color: #cbd5e1; font-size: 0.95rem;">توسعه بر اساس اصول <b style="color: #fb923c;">Clean Architecture</b>، DDD و طراحی سیستم‌های توزیع‌شده و ماژولار</div>
+    </div>
+  </div>
 
   <!-- Skills Badges -->
-  <h3 style="color:#79c0ff;">⚙️ مهارت‌ها</h3>
-  <p align="center" style="margin:10px 0 0;">
-    <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" style="border-radius:10px;"/>
-    <img src="https://img.shields.io/badge/Blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white" style="border-radius:10px;"/>
-    <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" style="border-radius:10px;"/>
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" style="border-radius:10px;"/>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" style="border-radius:10px;"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" style="border-radius:10px;"/>
-    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" style="border-radius:10px;"/>
-    <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="border-radius:10px;"/>
+  <h3 style="color: #c4b5fd; margin-top: 24px; font-size: 1.3rem; font-weight: 700; border-right: 4px solid #7C3AED; padding-right: 12px;">
+    ⚙️ جعبه‌ابزار تکنولوژی
+  </h3>
+  <p align="center" style="margin: 16px 0 0;">
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,visualstudio,linux,docker,nginx,github,git,html,css,tailwind,vscode&perline=15" 
+         alt="Skills" 
+         style="border-radius: 8px;" />
   </p>
 
-  <!-- Tech Blocks -->
-  <div style="display:flex; flex-wrap:wrap; gap:14px; margin-top:16px; justify-content:center;">
-    <div style="background:#161b22; border:1px solid #30363d; border-radius:14px; padding:14px 16px; width:290px;">
-      <h4 style="margin:0 0 10px; color:#ffa657;">🔧 Backend</h4>
-      <div>.NET 8, ASP.NET Core, EF Core, RESTful APIs, Clean Architecture</div>
-    </div>
-    <div style="background:#161b22; border:1px solid #30363d; border-radius:14px; padding:14px 16px; width:290px;">
-      <h4 style="margin:0 0 10px; color:#ffa657;">🖥 Front/Mobile</h4>
-      <div>Blazor, .NET MAUI, HTML/JS, Tailwind, MudBlazor</div>
-    </div>
-    <div style="background:#161b22; border:1px solid #30363d; border-radius:14px; padding:14px 16px; width:290px;">
-      <h4 style="margin:0 0 10px; color:#ffa657;">☁️ DevOps</h4>
-      <div>Docker, Nginx, CI/CD, GitHub Actions</div>
-    </div>
-    <div style="background:#161b22; border:1px solid #30363d; border-radius:14px; padding:14px 16px; width:290px;">
-      <h4 style="margin:0 0 10px; color:#ffa657;">🗄 دیتابیس</h4>
-      <div>SQL Server, PostgreSQL, SQLite, Dapper</div>
-    </div>
-  </div>
-
-  <hr style="border:none; height:1px; background:linear-gradient(90deg,#0d1117,#30363d,#0d1117); border-radius:10px; margin:22px 0 14px;">
+  <hr style="border: none; height: 1px; background: linear-gradient(90deg, transparent, #30363d, transparent); margin: 32px 0 20px;">
 
   <!-- Stats -->
-  <h3 style="color:#ff7b72;">📊 آمار فعالیت</h3>
-  <div align="center" style="margin:6px 0;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ali80da&show_icons=true&theme=radical&count_private=true&hide_border=true"
-         alt="stats"
-         height="160"
-         style="border-radius:14px; box-shadow:0 8px 18px rgba(0,0,0,.25); margin:4px;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ali80da&theme=radical&hide_border=true"
-         alt="streak"
-         height="160"
-         style="border-radius:14px; box-shadow:0 8px 18px rgba(0,0,0,.25); margin:4px;" />
+  <h3 style="color: #c4b5fd; margin-top: 20px; font-size: 1.3rem; font-weight: 700; border-right: 4px solid #7C3AED; padding-right: 12px;">
+    📊 آنالیز و آمار فعالیت
+  </h3>
+  <div align="center" style="margin: 16px 0;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ali80da&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=12&ring_color=A78BFA"
+         alt="stats" height="165" style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.25); margin: 4px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ali80da&theme=tokyonight&hide_border=true&border_radius=12&ring=A78BFA&fire=A78BFA"
+         alt="streak" height="165" style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.25); margin: 4px;" />
   </div>
-  <div align="center" style="margin-top:8px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali80da&layout=compact&theme=radical&hide_border=true"
-         alt="top-langs"
-         height="160"
-         style="border-radius:14px; box-shadow:0 8px 18px rgba(0,0,0,.25); margin:4px;" />
+  <div align="center" style="margin-top: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali80da&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
+         alt="top-langs" height="165" style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.25); margin: 4px;" />
   </div>
 
   <!-- Activity Graph -->
-  <div align="center" style="margin-top:12px;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ali80da&theme=react-dark&hide_border=true&area=true"
-         alt="activity-graph"
-         style="border-radius:12px; box-shadow:0 8px 22px rgba(0,0,0,.25);" />
+  <div align="center" style="margin-top: 16px;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ali80da&theme=react-dark&hide_border=true&area=true&border_radius=12&color=A78BFA&area_color=A78BFA"
+         alt="activity-graph" style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.25); max-width: 100%;" />
   </div>
 
   <!-- Contribution Snake -->
-  <div align="center" style="margin-top:14px;">
+  <div align="center" style="margin-top: 20px;">
     <img src="https://raw.githubusercontent.com/ali80da/ali80da/output/snake.svg"
-         alt="Contribution Snake"
-         style="border-radius:12px; box-shadow:0 8px 22px rgba(0,0,0,.25);" />
+         alt="Contribution Snake" style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.25); max-width: 100%;" />
   </div>
 
-  <hr style="border:none; height:1px; background:linear-gradient(90deg,#0d1117,#30363d,#0d1117); border-radius:10px; margin:22px 0 14px;">
+  <hr style="border: none; height: 1px; background: linear-gradient(90deg, transparent, #30363d, transparent); margin: 32px 0 20px;">
 
   <!-- Trophies -->
-  <div align="center" style="margin-top:16px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=ali80da&theme=onedark&no-frame=true&margin-w=10"
-         alt="trophies"
-         style="border-radius:12px; box-shadow:0 8px 22px rgba(0,0,0,.25);" />
+  <div align="center" style="margin-top: 20px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=ali80da&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&no-bg=true"
+         alt="trophies" style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.25);" />
   </div>
 
-  <hr style="border:none; height:1px; background:linear-gradient(90deg,#0d1117,#30363d,#0d1117); border-radius:10px; margin:22px 0 14px;">
+  <hr style="border: none; height: 1px; background: linear-gradient(90deg, transparent, #30363d, transparent); margin: 32px 0 20px;">
 
   <!-- Contact -->
-  <h3 style="color:#79c0ff;">🔗 ارتباط با من</h3>
-  <div align="center" style="display:flex; gap:14px; justify-content:center; flex-wrap:wrap;">
-    <a href="https://github.com/ali80da" title="GitHub">
+  <h3 style="color: #c4b5fd; margin-top: 20px; font-size: 1.3rem; font-weight: 700; border-right: 4px solid #7C3AED; padding-right: 12px;">
+    🔗 راه‌های ارتباطی
+  </h3>
+  <div align="center" style="display: flex; gap: 14px; justify-content: center; flex-wrap: wrap; margin-top: 16px;">
+    <a href="https://routinet.ir" target="_blank" title="Routinet Website" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Routinet-7C3AED?style=for-the-badge&logoColor=white"
+           alt="Website" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(124,58,237,0.4);" />
+    </a>
+    <a href="https://github.com/ali80da" title="GitHub" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/GitHub-ali80da-181717?style=for-the-badge&logo=github&logoColor=white"
-           alt="GitHub"
-           style="border-radius:12px; box-shadow:0 6px 16px rgba(0,0,0,.25);" />
+           alt="GitHub" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
     </a>
-    <a href="https://www.linkedin.com/in/ali-darehshori" title="LinkedIn">
+    <a href="https://www.linkedin.com/in/ali-darehshori" title="LinkedIn" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/LinkedIn-Ali%20Darehshori-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-           alt="LinkedIn"
-           style="border-radius:12px; box-shadow:0 6px 16px rgba(0,0,0,.25);" />
+           alt="LinkedIn" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
     </a>
-    <a href="https://komarev.com/ghpvc/?username=ali80da" title="Profile Views">
-      <img src="https://komarev.com/ghpvc/?username=ali80da&label=Visitors&color=orange&style=for-the-badge"
-           alt="views"
-           style="border-radius:12px; box-shadow:0 6px 16px rgba(0,0,0,.25);" />
+    <a href="https://komarev.com/ghpvc/?username=ali80da" title="Profile Views" style="text-decoration: none;">
+      <img src="https://komarev.com/ghpvc/?username=ali80da&label=Profile+Views&color=7C3AED&style=for-the-badge"
+           alt="views" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
     </a>
   </div>
 
-  <div align="center" style="margin-top:18px; font-weight:700;">
-    🎉 با هم دنیای نرم‌افزار رو بهتر می‌کنیم! 🎉
+  <div align="center" style="margin-top: 28px; font-weight: 600; font-size: 1rem; color: #94a3b8;">
+    ⚡ "کد خوب، بهترین مستند است. وقتی می‌خواهید توضیحی بنویسید، بپرسید: چطور می‌توانم کد را بهتر بنویسم؟" ⚡
   </div>
 </div>
 <!-- ================================= END ================================= -->
